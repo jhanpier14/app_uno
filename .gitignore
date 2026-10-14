@@ -42,3 +42,8 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Temporary files
+ng.log.txt
+run.ps1
+start.bat
